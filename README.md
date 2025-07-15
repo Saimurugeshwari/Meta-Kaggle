@@ -1,6 +1,6 @@
 # Reimagining the Incentives and Impact Behind Data Competitions
 
-This project explores Kaggle competition metadata to examine patterns in domain participation, reward structures, and modeling effort. The analysis goes beyond taxonomy — raising questions about the kinds of challenges we prioritize, and the social impact opportunities we might be missing.
+This project explores Kaggle competition metadata to examine patterns in domain participation, reward structures, and modeling effort. The analysis goes beyond taxonomy raising questions about the kinds of challenges we prioritize, and the social impact opportunities we might be missing.
 
 ## Motivation
 
@@ -38,6 +38,6 @@ A lightweight Gradio interface allows users to select domains and view live summ
 
 ## Conclusion
 
-This project invites platforms like Kaggle to build on their strong foundation by welcoming more human-centered innovation. Modeling can evolve in diversity and relevance — serving not just curiosity, but long-term social needs.
+This project invites platforms like Kaggle to build on their strong foundation by welcoming more human-centered innovation. Modeling can evolve in diversity and relevance serving not just curiosity, but long-term social needs.
 
 ---
